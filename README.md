@@ -1,5 +1,3 @@
-## Hello! I'm Hiram, welcome to my GitHub.
-
 <!--
 **hiram-pl/hiram-pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Data engineering and applied modeling.** Previously built warehouse pipelines and forecasting systems at [ADEO](https://www.adeo.com/) (Leroy Merlin group). UC Berkeley (Data Science) & Sciences Po (Economics) Dual B.A. Program
+Hello, I'm Hiram! I'm currently focused on **data engineering and applied modeling.** I've previously built warehouse pipelines and forecasting systems at [ADEO](https://www.adeo.com/) (30B+ revenue; parent of Leroy Merlin; Europe’s #1, world’s #3 DIY retailer).
 
 ---
 
@@ -42,16 +40,6 @@ Founded the team, conceived the product, built the frontend, and delivered the f
 
 ---
 
-### [Coinbase Diversification Analysis](https://github.com/hiram-pl/Coinbase-Diversification-Analysis)
-Independent strategic analysis of Coinbase's revenue concentration, commended by a Coinbase staff data scientist for analytical rigor.
-
-- 20 quarters of SEC filings against BTC price: trading revenue is **64% below its 2021 level**, a $283M quarterly gap current diversification hasn't closed
-- Built a weighted prioritization framework that surfaced banking/cash management as a top-scoring opportunity — absent from both the company roadmap and analyst consensus
-
-`Python` `SEC filings` `Financial modeling`
-
----
-
 ## Work not public here
 
 The largest systems I've built are internal to ADEO and can't be open-sourced. Shape of the work:
@@ -72,10 +60,10 @@ Happy to walk through any of these in detail!
 **Languages** Python (pandas, scikit-learn, matplotlib) · SQL · R (tidyverse, ggplot2)
 **Data platform** BigQuery · Google Cloud Platform · Terraform · Power BI
 **Modeling** Dimensional modeling / ELT · Gradient boosting (XGBoost) · Time-series forecasting (Prophet) · Cross-validation
-**Also** Git · Streamlit · Docker
+**Also** Git · Streamlit
 
 ---
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/hiram-l-692a45288/) · [Email](mailto:[hiram_lannes@berkeley.edu]) · English (native) / French (native) / Spanish (native)
+[LinkedIn](https://www.linkedin.com/in/hiram-l-692a45288/) · [Email](mailto:[hiram_lannes@berkeley.edu])
