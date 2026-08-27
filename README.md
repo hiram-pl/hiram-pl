@@ -46,7 +46,7 @@ The largest systems I've built are internal to ADEO and can't be open-sourced. S
 
 | System | What it does |
 |---|---|
-| **GMROI pipeline (BigQuery)** | 8+ source systems; replaced full-refresh with incremental `MERGE`, cutting bytes scanned 99.6% (3.5 TB → 13 GB) and per-read cost from $22 to $0.08 |
+| **KPI pipeline (BigQuery)** | 8+ source systems; replaced full-refresh with incremental `MERGE`, cutting bytes scanned 99.6% (3.5 TB → 13 GB) and per-read cost from $22 to $0.08 |
 | **Four-tier view architecture** | 25+ views with LAKE/SWAMP governance, decoupling business rules from source schemas so onboarding a new business unit needs no core code changes |
 | **Discount & sales star schema** | 19 business units / 11 countries unified into a Power BI-facing star schema, with collision-proof keys and line-grain checks catching fan-out at every stage |
 | **Workforce forecasting engine** | Prophet-based headcount projection 36 months out for 74,000 employees; validated at 2.21% error on a 6-month backtest |
