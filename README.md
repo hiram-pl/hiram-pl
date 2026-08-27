@@ -60,9 +60,3 @@ Happy to walk through any of these in detail!
 **Languages** Python (pandas, scikit-learn, matplotlib) · SQL · R (tidyverse, ggplot2)
 **Data platform** BigQuery · Google Cloud Platform · Terraform · Power BI
 **Modeling** Dimensional modeling / ELT · Gradient boosting (XGBoost) · Time-series forecasting (Prophet) · Cross-validation
-
----
-
-## Elsewhere
-
-[LinkedIn](https://www.linkedin.com/in/hiram-l-692a45288/) · [Email](mailto:[hiram_lannes@berkeley.edu])
