@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Hiram! I'm currently focused on **data engineering and applied modeling.** I've previously built warehouse pipelines and forecasting systems at [ADEO](https://www.adeo.com/) (30B+ revenue; parent of Leroy Merlin; Europe’s #1, world’s #3 DIY retailer).
+Hello, I'm Hiram! I'm currently focused on **data engineering, applied modeling, and causal inference.** I've previously built warehouse pipelines and forecasting systems at [ADEO](https://www.adeo.com/) (30B+ revenue; parent of Leroy Merlin; Europe’s #1, world’s #3 DIY retailer).
 
 ---
 
