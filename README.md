@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm Hiram, welcome to my GitHub.
 
 <!--
 **hiram-pl/hiram-pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hiram Lannes
 
 **Data engineering and applied modeling.** Previously built warehouse pipelines and forecasting systems at [ADEO](https://www.adeo.com/) (Leroy Merlin group). UC Berkeley (Data Science) & Sciences Po (Economics) Dual B.A. Program
 
