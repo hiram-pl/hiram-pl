@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Hiram! I'm currently focused on **data engineering, applied modeling, and causal inference.** I've previously built warehouse pipelines and forecasting systems at [ADEO](https://www.adeo.com/) (30B+ revenue; parent of Leroy Merlin; Europe’s #1, world’s #3 DIY retailer).
+<!-- Hello, I'm Hiram! I'm currently focused on **data engineering, applied modeling, and causal inference.** I've previously built warehouse pipelines and forecasting systems at [ADEO](https://www.adeo.com/) (30B+ revenue; parent of Leroy Merlin; Europe’s #1, world’s #3 DIY retailer).
 
 ---
 
@@ -59,4 +59,4 @@ Happy to walk through any of these in detail!
 
 **Languages** Python (pandas, scikit-learn, matplotlib) · SQL · R (tidyverse, ggplot2)
 **Data platform** BigQuery · Google Cloud Platform · Terraform · Power BI
-**Modeling** Dimensional modeling / ELT · Gradient boosting (XGBoost) · Cross-validation
+**Modeling** Dimensional modeling / ELT · Gradient boosting (XGBoost) · Cross-validation -->
